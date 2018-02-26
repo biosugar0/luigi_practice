@@ -9,5 +9,8 @@ sudo luigid --background
 python3 run_luigi.py Beta --sec 66
 ```
 
+## 可視化
+
+デフォルトで http://localhost:8082
 
 ![](./example.png)
