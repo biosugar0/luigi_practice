@@ -2,3 +2,4 @@
 
 luigiの練習
 
+![](./example.png)
