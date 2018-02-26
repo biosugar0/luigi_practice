@@ -30,3 +30,4 @@ luigidコマンドで可視化のためのサーバを立てた状態でluigiス
 デフォルトで http://localhost:8082 で見れる。
 
 ![](./example.png)
+![](./example2.png)
