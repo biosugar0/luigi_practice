@@ -29,7 +29,7 @@ param2=singularity
 
 ## 外部コマンドの実行
 
-`from luigi.contrib.external_program import ExternalProgramTask` を使うと外部コマンドを実行できるが、パイプやリダイレクトができない。
+`from luigi.contrib.external_program import ExternalProgramTask` を使うと外部コマンドを実行できるが、パイプやリダイレクトは難しそう。
 それらの操作をしたいときのために、 luigiの作者はplumbum モジュールの使用を提案している。(実行できればなんでも良さそうなのでsuprocess使ってもよさそう。)
 
 ```
